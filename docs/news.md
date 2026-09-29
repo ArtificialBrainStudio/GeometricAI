@@ -44,15 +44,15 @@ Dr. Yamac attended Startup Exploration Day at Aalto University, connecting with 
 
 ---
 
-**Latitude59, Tallinn** `May 2026`
-
-Dr. Yamac attended Latitude59 in Tallinn, engaging with founders, investors, and innovation leaders on deep tech commercialisation and research-to-business transition. GeometricAI is a Business Finland funded project at Tampere University.
-
----
-
 **Science Startup Day, Helsinki** `May 2026`
 
 Dr. Yamac connected with researchers, innovators, and startup builders at Science Startup Day, focusing on deep tech and research commercialisation in Finland. [LinkedIn](https://www.linkedin.com/posts/geometric-ai-undercontrol_sciencestartupday-innovation-deeptech-activity-7465299656550522883-HCtP)
+
+---
+
+**Latitude59, Tallinn** `May 2026`
+
+Dr. Yamac attended Latitude59 in Tallinn, engaging with founders, investors, and innovation leaders on deep tech commercialisation and research-to-business transition. GeometricAI is a Business Finland funded project at Tampere University. [LinkedIn](https://www.linkedin.com/posts/geometric-ai-undercontrol_latitude59-deeptech-innovation-activity-7462481820476112896-tPpn)
 
 ---
 
