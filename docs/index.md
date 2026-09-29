@@ -14,6 +14,9 @@ can be observed, redirected, and controlled at every step.
 
 </div>
 
+!!! tip "New paper: When Does Unsupervised Learning Succeed or Fail?"
+    Our latest work applies Pursuit of Subspaces to reconstruction-based anomaly detection, explaining when it fails and how to fix it without anomaly labels. [:octicons-arrow-right-24: Read on arXiv](https://arxiv.org/abs/2609.28832)
+
 Geometric AI goes beyond today's fixed-pipeline neural networks. Where current systems run the same architecture for every input, Geometric AI builds adaptive, modular systems where information flow is visible, measurable, and controllable at every step.
 
 ---

@@ -10,6 +10,14 @@ Within this framework, each layer or module acts as a geometric operator project
 
 ## Papers
 
+- **[When Does Unsupervised Learning Succeed or Fail? A PoS Perspective on Reconstruction-Based Anomaly Detection](https://arxiv.org/abs/2609.28832)**
+
+    M. Yamac, Y. Mustu, M. N. Yousaf, L. Xu, M. van Gerven. *arXiv*, 2026.
+
+    Characterises two opposing failure modes of reconstruction-based unsupervised learning, reconstructing anomalies too well or losing nominal variation, through the geometry of Pursuit of Subspaces. Proposes Dynamic Push and Pull and nested manifold carving, which learn from controlled perturbations without anomaly labels and improve anomaly detection across standard benchmarks and downstream ECG classification.
+
+    [:octicons-link-external-16: arXiv](https://arxiv.org/abs/2609.28832)
+
 - **[Axiomatizing Neural Networks via Pursuit of Subspaces](https://arxiv.org/abs/2605.20534)**
 
     M. Yamac, M. Duman, U. Akpinar, F. Rojas Casadiego, S. Kiranyaz, M. van Gerven, M. Gabbouj. *arXiv*, 2026.
